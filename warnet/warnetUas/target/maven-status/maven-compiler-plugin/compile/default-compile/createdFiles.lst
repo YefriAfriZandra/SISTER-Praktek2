@@ -1,0 +1,5 @@
+com\yefri\warnetUas\service\WarnetService.class
+com\yefri\warnetUas\controller\WarnetController.class
+com\yefri\warnetUas\repository\WarnetRepository.class
+com\yefri\warnetUas\WarnetUasApplication.class
+com\yefri\warnetUas\entity\Warnet.class
