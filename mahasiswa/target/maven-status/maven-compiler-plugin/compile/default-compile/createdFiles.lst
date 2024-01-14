@@ -1,0 +1,9 @@
+com\yefri\sister\mahasiswa\repository\MahasiswaRepository.class
+com\yefri\sister\mahasiswa\service\MahasiswaService.class
+com\yefri\sister\mahasiswa\controller\MahasiswaController.class
+com\yefri\sister\mahasiswa\entity\Mahasiswa.class
+com\yefri\sister\mahasiswa\entity\Matakuliah.class
+com\yefri\sister\mahasiswa\repository\MatakuliahRepository.class
+com\yefri\sister\mahasiswa\MahasiswaApplication.class
+com\yefri\sister\mahasiswa\service\MatakuliahService.class
+com\yefri\sister\mahasiswa\controller\MatakuliahController.class
