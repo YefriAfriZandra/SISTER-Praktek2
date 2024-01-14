@@ -1,0 +1,5 @@
+com\veron\nilaimahasiswa\entity\NilaiMahasiswa.class
+com\veron\nilaimahasiswa\repository\NilaiMahasiswaRepository.class
+com\veron\nilaimahasiswa\controller\NilaiMahasiswaController.class
+com\veron\nilaimahasiswa\NilaimahasiswaApplication.class
+com\veron\nilaimahasiswa\service\NilaiMahasiswaService.class
